@@ -1,0 +1,6 @@
+{
+  "name": "Balance Compass",
+  "description": "Premium Work-Life Balance and Community Engagement platform combining productivity, mindfulness, health tracking, and community connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
